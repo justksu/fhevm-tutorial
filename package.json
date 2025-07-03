@@ -1,0 +1,15 @@
+{
+  "name": "fhevm-tutorial",
+  "version": "1.0.0",
+  "description": "fhEVM tutorial project following Zama documentation",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0",
+    "fhevm": "^0.3.0"
+  },
+  "keywords": ["fhevm", "zama", "blockchain", "privacy"]
+}
